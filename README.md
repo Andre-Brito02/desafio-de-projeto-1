@@ -28,10 +28,10 @@ Para obter qualquer permissão, é somado os números correspondentes. No caso d
 
 Para mais informações: https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf
 
-Desafio de projeto 2
+<h1>Desafio de projeto 2</h1>
 
 O segundo desafio de projeto consiste em criar um script de um servidor web utilizando o Apache. Nele temos os comandos de update e upgrade, as instalações do apache2 e do unzip, além de baixar os arquivos do repositório github do professor/instrutor Denilson Bonatti, sua descompactação e cópia para onde está o servidor web.
-================================================================================================================================================================================================================
-Desafio de projeto 3
+
+<h1>Desafio de projeto 3</h1>
 
 O terceiro desafio de projeto consiste em um sistema Docker. Esse foi mais complicado então todo o diretório quanto os créditos são do tech lead Denilson Bonatti. Github: https://github.com/denilsonbonatti
